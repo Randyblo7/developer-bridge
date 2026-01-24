@@ -20,7 +20,7 @@
   ],
   "dependencies": {
     "apr-map": "^3.0.3",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.23",
     "tslib": "^2.0.1"
   },
   "devDependencies": {
